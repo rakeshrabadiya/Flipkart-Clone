@@ -342,6 +342,7 @@ body{
 }
 .footer-section-links a{
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     gap: 16px;
