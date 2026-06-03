@@ -340,6 +340,13 @@ body{
     justify-content: center;
     gap: 16px;
 }
+.footer-section-links a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
 .deals-title{
     margin-left: 40px;
     margin-bottom: 0;
