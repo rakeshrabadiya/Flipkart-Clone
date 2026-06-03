@@ -338,6 +338,7 @@ body{
 .footer-section-links{
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 16px;
 }
 .footer-section-links a{
